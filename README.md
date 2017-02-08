@@ -5,7 +5,7 @@
 1. **Clone the repo**
 
   ```
-  $ git clone https://github.com/alexprodev/Freed_Test.git
+  $ git clone https://github.com/alexprodev/FreedCamp.git
   $ cd Freed_Test
   ```
 
