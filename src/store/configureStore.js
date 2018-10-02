@@ -1,5 +1,5 @@
 /**
- * @flow
+ * @flow change the flow
  */
 
 'use strict';
